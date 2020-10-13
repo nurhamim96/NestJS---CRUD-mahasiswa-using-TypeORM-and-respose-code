@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: localhost
--- Generation Time: Oct 09, 2020 at 08:00 AM
+-- Generation Time: Oct 13, 2020 at 05:40 AM
 -- Server version: 10.4.11-MariaDB
 -- PHP Version: 7.2.29
 
@@ -40,7 +40,7 @@ CREATE TABLE `mahasiswa` (
 --
 
 INSERT INTO `mahasiswa` (`nik`, `id`, `name`, `jurusan`, `address`) VALUES
-(1111111, 'a0491df0-ed67-44f8-9b51-f5fabd29024e', 'Test', 'Asal', 'Jl. nin aja dulu');
+(12222222, '51939d86-ff47-4236-9dd4-65be2acb0ded', 'Test 2x', 'Asal', 'Jl. nin aja dulu');
 
 --
 -- Indexes for dumped tables
